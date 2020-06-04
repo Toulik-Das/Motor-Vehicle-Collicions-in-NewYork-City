@@ -7,4 +7,6 @@ This is a data dashboard that can be used to analyze accident reports in NYC ğŸ—
 - Pandas
 - Plotly
 - streamlit
-- 
+- pydeck
+
+##
